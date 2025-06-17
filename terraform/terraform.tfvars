@@ -1,0 +1,8 @@
+region = "us-east-1"
+customer_name = "seven"
+project = "seven"
+repository_url = "https://github.com/craffapptest1/default_user_portfolio00900.git"
+branch = "master"
+db_password = "seven_password"
+db_username = "postgres"
+db_name = "seven_db"
